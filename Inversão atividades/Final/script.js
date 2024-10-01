@@ -8,11 +8,9 @@ let igf = 0
 
 p = parseInt(prompt("Quantas pessoas estão previstas de ir:"))
 
-let i 
+let i = 150
 
 for (i > 0){
-
-    let i 
 
     l = (i * p) - 1000
 
